@@ -3,3 +3,4 @@ def say_hello(name="ruby Programmer")
 end
 
 say_hello("Gabriela")
+say_hello
